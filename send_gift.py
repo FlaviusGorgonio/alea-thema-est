@@ -1,3 +1,5 @@
+import random
+
 def import_emails(filename):
     with open(filename, 'r', encoding='utf-8') as fp:
         email_string = fp.read()
@@ -25,7 +27,8 @@ print("Lista de e-mails:")
 print("-----------------")
 for email in full_email_list:
     print(email)
-# print(full_email_list)
+random.shuffle(full_email_list)
+print(full_email_list)
 
 print()
 full_topic_list = import_topics("student_topic_list.txt")
@@ -33,3 +36,10 @@ print("Lista de temas para projeto:")
 print("-----------------------------")
 for topic in full_topic_list:
     print(topic)
+random.shuffle(full_topic_list)
+print(full_topic_list)
+
+tam = len(full_email_list)
+for i in range(tam):
+    print(i+1, full_email_list[i], full_topic_list[i])
+
