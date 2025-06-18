@@ -1,0 +1,70 @@
+SIG-AllNight: Um Sistema de Gestão para uma Loja de Conveniência
+SIG-Aninha: Uma Cigana Virtual
+SIG-Art: Um Sistema de Gestão de uma Loja de Artesanato
+SIG-Baby: Um Sistema de Gestão para uma Loja de Produtos para Bebês
+SIG-Banking: Um Sistema de Gestão de Finanças Pessoais
+SIG-Bar: Um Sistema de Gestão para um Bar e Restaurante
+SIG-BarberShop: Um Sistema de Gestão para Barbearia
+SIG-Beer: Um Sistema de Assinatura de Cervejas
+SIG-Bike: Um Sistema de Gestão para uma Loja de Bicicletas
+SIG-Book: Um Sistema de Gestão para uma Livraria
+SIG-Boy: Um Sistema de Gestão para uma Empresa de Entregas com Motoboys
+SIG-Building: Um Sistema de Gestão para uma Loja de Material de Construção
+SIG-Burger: Um Sistema de Gestão para uma Hamburgueria
+SIG-Cake: Um Sistema de Gestão para uma Fábrica de Bolos Caseiros
+SIG-Car: Um Sistema de Gestão para uma Concessionária de Veículos
+SIG-CarFlow: Um Sistema de Controle de Fluxo de Veículos
+SIG-CellService: Um Sistema de Gestão para uma Loja de Conserto de Celulares
+SIG-Cheese: Um Sistema de Gestão para uma Fábrica de Queijos
+SIG-Cine: Um Sistema de Gestão para Cinemas
+SIG-Circus: Um Sistema de Gestão para um Circo
+SIG-Class: Um Sistema de Gestão para Controle de Horários de Aula
+SIG-Clinic: Um Sistema de Agendamento para Clínicas Médicas
+SIG-Coffee: Um Sistema de Gestão para uma Fábrica de Cafés Especiais
+SIG-Computer: Um Sistema de Gestão para uma Empresa de Manutenção de Computadores
+SIG-Cookie: Um Sistema de Gestão para uma Fábrica de Biscoitos Caseiros
+SIG-Cup: Um Sistema de Gestão para uma Loja de Canecas Personalizadas
+SIG-Customer: Um Sistema de Gestão de Clientes e Pedidos
+SIG-Dentistry: Um Sistema de Agendamento para Clínicas Dentárias
+SIG-DietPlan: Um Sistema de Planejamento de Dietas
+SIG-Drugstore: Um Sistema de Gestão para Farmácias
+SIG-Fantasy: Um Sistema de Gestão para uma Locadora de Roupas e Fantasias
+SIG-Femme: Um Sistema de Gestão para uma Loja de Produtos Femininos
+SIG-Finance: Um Sistema de Controle de Finanças Domésticas
+SIG-Fruit: Um Sistema de Gestão para uma Quitanda
+SIG-Gym: Um Sistema de Gestão de Academias
+SIG-Hair: Um Sistema de Gestão para Cabeleireiros
+SIG-Hammock: Um Sistema de Gestão para uma Fábrica de Redes de Dormir
+SIG-Hat: Um Sistema de Gestão para uma Fábrica de Chapéus e Bonés
+SIG-Homme: Um Sistema de Gestão para uma Loja de Produtos Masculinos
+SIG-Hotel: Um Sistema de Gestão para Hotéis e Pousadas
+SIG-Inventory: Um Sistema de Controle de Estoque de uma Empresa
+SIG-Law: Um Sistema de Agendamento para Escritórios de Advocacia
+SIG-Library: Um Sistema de Gestão para uma Biblioteca Pessoal
+SIG-Massage: Um Sistema de Gestão para Serviços de Massagens Terapêuticas
+SIG-Medical: Um Sistema de Gestão para Clínicas Médicas
+SIG-Motel: Um Sistema de Gestão para Motéis
+SIG-Nail: Um Sistema de Gestão para Manicure e Pedicure
+SIG-Pantry: Um Sistema de Controle de Despensa Doméstica
+SIG-Parfum: Um Sistema de Gestão para uma Loja de Perfumes
+SIG-Parking: Um Sistema de Controle de Estacionamentos
+SIG-Party: Um Sistema de Gestão para uma Casa de Festas
+SIG-Pawn: Um Sistema de Controle de Patrimônio
+SIG-Pet: Um Sistema de Agendamento de Consultas para Pet-Shops
+SIG-Pharmacy: Um Sistema de Gestão de Farmácias e Drogarias
+SIG-Phone: Um Sistema de Gestão para uma Loja de Celulares
+SIG-Pizza: Um Sistema de Gestão para uma Pizzaria
+SIG-Recipes: Um Caderno Virtual de Receitas Culinárias
+SIG-Rent-a-Bike: Um Sistema de Gestão para uma Locadora de Bicicletas e Patinetes Elétricos
+SIG-Rent-a-Car: Um Sistema de Gestão para uma Locadora de Veículos
+SIG-Residence: Um Sistema de Gestão de Despesas em uma República de Estudantes
+SIG-SexShop: Um Sistema de Gestão para uma Sex Shop
+SIG-Shoes: Um Sistema de Gestão para uma Loja de Calçados
+SIG-Show: Um Sistema de Gestão para uma Casa de Espetáculos
+SIG-Staff: Um Sistema de Gestão da Folha de Pagamento de Funcionários
+SIG-SunGlass: Um Sistema de Gestão para uma Ótica
+SIG-Sweet: Um Sistema de Gestão para uma Fábrica de Doces Caseiros
+SIG-Task: Uma Agenda de Tarefas e Compromissos
+SIG-Theater: Um Sistema de Gestão para um Teatro
+SIG-Vet: Um Sistema de Gestão para Clínicas Veterinárias
+SIG-Wine: Um Sistema de Gestão para um Clube de Assinantes de Vinhos

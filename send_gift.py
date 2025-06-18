@@ -6,5 +6,30 @@ def import_emails(filename):
 
     return email_list
 
-email_full_list = import_emails("student_email_list.txt")
-print(email_full_list)
+
+def import_topics(filename):
+    with open(filename, 'r', encoding='utf-8') as fp:
+        topic_list = [linha.strip() for linha in fp if linha.strip()]
+    return topic_list
+
+
+
+
+
+###
+### Main program
+###
+
+full_email_list = import_emails("student_email_list.txt")
+print("Lista de e-mails:")
+print("-----------------")
+for email in full_email_list:
+    print(email)
+# print(full_email_list)
+
+print()
+full_topic_list = import_topics("student_topic_list.txt")
+print("Lista de temas para projeto:")
+print("-----------------------------")
+for topic in full_topic_list:
+    print(topic)
